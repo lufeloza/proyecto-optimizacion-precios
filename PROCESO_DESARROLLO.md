@@ -15,10 +15,11 @@ Transformar el script actual de optimización de precios en un proyecto de porta
 - **Avance 2:** Refactorización exitosa a la clase `PricingEngine`. Validación con Accuracy del 85% y ROC AUC de 0.94.
 - **Avance 3:** Creación del visualizador premium e integración exitosa. Se generó la gráfica `optimizacion_T7.png`.
 - **Avance 4:** Enriquecimiento del `README.md` con impacto visual y métricas.
-- **Avance 5 (Toque WOW):** Implementación de visualizaciones 3D y comparativas dinámicas. Se generaron `heatmap_3d.png` y `evolucion_temporal.png`.
+- **Avance 5 (Toque WOW):** Visualizaciones 3D y dinámicas completadas.
+- **Avance 6:** Repositorio oficial creado y subido a GitHub: [proyecto-optimizacion-precios](https://github.com/lufeloza/proyecto-optimizacion-precios).
 
 ## ✅ Proyecto Completado (Nivel Senior)
-El proyecto es ahora una pieza de portafolio de alto impacto:
+El proyecto es ahora una pieza de portafolio de alto impacto...
 1. **Refactorización:** Clase `PricingEngine` (Senior standard).
 2. **Validación:** Métricas profesionales (85% Accuracy, 0.94 AUC).
 3. **Visualización Wow:** Gráficos 2D, 3D y de evolución temporal.
