@@ -45,4 +45,17 @@ El motor incluye métricas de desempeño profesionales que garantizan su fiabili
 ## 📂 Estructura del Proyecto
 - `pricing_optimizer.py`: Motor principal (Clase `PricingEngine`).
 - `visualizer.py`: Módulo de generación de gráficas premium.
-- `HISTORIAL_PROYECTO.md`: Registro detallado de la evolución del desarrollo.
+- `test_pricing.py`: Suite de pruebas unitarias para asegurar la calidad.
+- `PROCESO_DESARROLLO.md`: Registro detallado de la arquitectura y evolución.
+
+## 🧪 Calidad y Testing
+Este proyecto sigue estándares de ingeniería de software mediante pruebas unitarias. Para ejecutar las pruebas:
+
+```bash
+pytest test_pricing.py
+```
+
+Las pruebas garantizan:
+- Integridad de la generación de datos sintéticos.
+- Correcto entrenamiento y obtención de métricas (Accuracy/AUC).
+- Coherencia matemática en las recomendaciones de precios.
